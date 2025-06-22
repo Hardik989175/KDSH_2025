@@ -138,14 +138,7 @@ project/
    ```bash
    cd <path_to_project>
    ```
-2. Run the classification script:
-   ```bash
-   streamlit run KDSH_Task2_Static.py
-   ```
-3. Upload the research paper PDF in the sidebar. The system will:
-   - Extract and process content.
-   - Classify the paper into relevant categories.
-   - Provide an interactive chart and analysis.
+2. Run the .ipynb file 
 
 ### File 2: Real-Time Data Classification
 1. Navigate to the real-time data folder:
